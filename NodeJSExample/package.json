@@ -1,0 +1,15 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "First NodeJS exposure",
+  "main": "index.js",
+  "scripts": {
+    "hello":"node helloworld.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "CIT262"
+  },
+  "author": "Luke Wells",
+  "license": "ISC"
+}
